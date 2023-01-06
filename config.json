@@ -1,20 +1,20 @@
 {
-  "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
+  "readmeUrl": "https://github.com/MrTecky/MrTecky/blob/main/README.md",
   "title": "LiveTerm",
-  "name": "John Doe",
+  "name": "MrTecky",
   "ascii": "liveterm",
   "social": {
-    "github": "github",
-    "linkedin": "linkedin"
+    "github": "/MrTecky",
+    "linkedin": "/anro-kruger-96759a257"
   },
-  "email": "contact@email.com",
-  "ps1_hostname": "liveterm",
-  "ps1_username": "visitor",
-  "repo": "https://github.com/Cveinnt/LiveTerm",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "email": "mr.tecky@protonmail.com.com",
+  "ps1_hostname": "Terminal",
+  "ps1_username": "Visitor",
+  "latest": "https://github.com/MrTecky/VM-1",
+  "resume_url": "https://commons.wikimedia.org/wiki/File:Resume-Anro-Kruger_(1).pdf",
   "donate_urls": {
-    "paypal": "https://paypal.me/cveinnt",
-    "patreon": "https://patreon.com/cveinnt"
+    "paypal": "",
+    "patreon": "https://www.buymeacoffee.com/mrtecky"
   },
   "colors": {
     "light": {
